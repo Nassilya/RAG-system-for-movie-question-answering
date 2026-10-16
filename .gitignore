@@ -1,0 +1,17 @@
+.env
+
+.cache/
+
+mlflow.db
+mlruns/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/raw/movies/wiki/
+
+chunk.parquet
+question.parquet
+
+.DS_Store
