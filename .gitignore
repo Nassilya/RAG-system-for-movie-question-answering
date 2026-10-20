@@ -15,3 +15,5 @@ chunk.parquet
 question.parquet
 
 .DS_Store
+*.pdf
+*.pdf
